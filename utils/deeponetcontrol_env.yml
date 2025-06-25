@@ -1,0 +1,15 @@
+name: deeponetcontrol
+channels: 
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  - scikit-optimize
+  - scipy
+  - deepxde
+  - matplotlib
+  - tensorflow
+  - ipykernel
+  - autopep8
