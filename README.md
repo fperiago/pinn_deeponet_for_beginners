@@ -6,7 +6,7 @@ This mini-course is designed to provide graduate students and researchers with a
 
 The course summarizes the lectures given by Francisco Periago at the XXI Jacques-Louis Lions Hispano-French School on Numerical Simulation in Physics and Engineering held at Universidad de Castilla-La Mancha (Spain) on July 7-11, 2025. FP acknowledges the invitation by SEMA (Spanish Society of Applied Mathematics) and SMAI (French Society for Applied and Industrial Mathematics). He is also imdebted to the organizers for their kindness and hospitality.
 
-This repository contains all the material of the course, namely, notes, slides, videos, and Python scripts. 
+This repository contains all the material for the course, namely, notes, slides, videos, and Python scripts. 
 
 > Acknowledgements: Work supported by grant  PID2022-141957OA-C22 funded by MCIN/AEI/10.13039/501100011033, by "ERDF A way of making Europe", and the Autonomous Community of the Regi\'on of Murcia, Spain, through the programme for the development of scientific and technical research by competitive groups (21996/PI/22), included in the Regional Program for the Promotion of Scientific and Technical Research of Fundaci\'on S\'eneca -- Agencia de Ciencia y Tecnolog\'ia de la Regi\'on de Murcia. 
 
@@ -17,8 +17,7 @@ This repository contains all the material of the course, namely, notes, slides, 
 ## Contents
 
 1. [Preliminaries: Python installation for the course](https://indiemedia.upct.es/videoCC/8a74868997950b580197c020b0e90027/VIDEO).
-2. [Physics-Informed Neural Networks. Part I: Theory](#Introducci%C3%B3n-a-Python).
-3. [Physics-Informed Neural Networks. Part II: Phyton implementation](#Introducci%C3%B3n-a-Pandas).
+2. [Physics-Informed Neural Networks. Part I: Theory](https://indiemedia.upct.es/videoCC/8a74868997950b580197c5aa0f28005b/VIDEO).
 4. [Deep Operator Network. Part I: Theory](#combinar-dataframes)
 5. [Deep Operator Network. Part II: Phyton implementation](#aplicar-transformaciones-y-calcular-res%C3%BAmenes-por-grupos)
 
