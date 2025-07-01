@@ -27,3 +27,18 @@ This repository contains all the material for the course, namely, notes, slides,
 In the following link you will find the data files needed in some examples. ```
 
 [Dataset](data/)
+
+## Citation
+```
+@book {gar26,
+	AUTHOR = {Garc\'{\i}a-Cervera, C. J. and Kessler, M. and Pedregal, P. and Periago, F.},
+	TITLE = {Physics-Informed Neural Networks and Deep Operator Network for beginners	},
+	SERIES = {Lecture Notes of the XXI Jacques-Louis Lions Spanish-French School, Ciudad Real, 2025},
+	VOLUME = {},
+	PUBLISHER = {SEMA-SIMA Springer},
+	YEAR = {2026},
+	PAGES = {},
+	ISBN = {},
+	MRCLASS = {},
+	MRNUMBER = {},
+}
