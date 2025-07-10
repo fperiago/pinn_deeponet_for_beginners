@@ -20,7 +20,7 @@ This repository contains all the material for the course, namely, notes, slides,
 2. [Physics-Informed Neural Networks. Part I: Theory](https://indiemedia.upct.es/videoCC/8a74868997950b580197c5aa0f28005b/VIDEO).
 3. [Physics-Informed Neural Networks. Part II: Python implementation](https://indiemedia.upct.es/videoCC/8a74868997950b580197cb1b3a91005f/VIDEO).
 4. [Deep Operator Network. Part I: Theory](https://indiemedia.upct.es/videoCC/8a74868997950b580197d084b0d5008d/VIDEO)
-5. [Deep Operator Network. Part II: Phyton implementation](#aplicar-transformaciones-y-calcular-res%C3%BAmenes-por-grupos)
+5. [Deep Operator Network. Part II: Phyton implementation](https://indiemedia.upct.es/videoCC/8a74869097f309ea0197f578bba00003/VIDEO)
 
 
 ## Dataset
